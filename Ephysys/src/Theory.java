@@ -25,5 +25,7 @@
 //BLOCKING QUEUE
 //clonabke interface
 //shallow copy point to refrence
+
+//callable return type futureObj callable()
 ///
 
